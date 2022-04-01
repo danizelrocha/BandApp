@@ -7,16 +7,18 @@ h1 {
     font-style: italic;
 }
 
-.clic {
-    text-align: center;
-    color: green;
-    font-size: 252%;
-}
-
 .cabeça {
     background: red;
 }
 
 .imagemlogo {
     width: 12%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.clic {
+    text-align: center;
+    color: green;
+    font-size: 252%;
 }
