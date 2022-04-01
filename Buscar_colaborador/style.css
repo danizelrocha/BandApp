@@ -4,17 +4,17 @@
     background: red;
 }
 
+.imagemlogo {
+    width: 12%;
+    display: inline-block;
+    vertical-align: top;
+}
+
 h1 {
     background: red;
     color: black;
     font-size: 35px;
     font-style: italic;
-}
-
-.imagemlogo {
-    width: 12%;
-    display: inline-block;
-    vertical-align: top;
 }
 
 .clic {
