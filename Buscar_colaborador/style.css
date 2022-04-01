@@ -1,14 +1,14 @@
 /* css da página inicial */
 
+.cabeça {
+    background: red;
+}
+
 h1 {
     background: red;
     color: black;
     font-size: 35px;
     font-style: italic;
-}
-
-.cabeça {
-    background: red;
 }
 
 .imagemlogo {
