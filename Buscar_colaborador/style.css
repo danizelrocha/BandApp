@@ -1,0 +1,22 @@
+/* css da página inicial */
+
+h1 {
+    background: red;
+    color: black;
+    font-size: 35px;
+    font-style: italic;
+}
+
+.clic {
+    text-align: center;
+    color: green;
+    font-size: 252%;
+}
+
+.cabeça {
+    background: red;
+}
+
+.imagemlogo {
+    width: 12%;
+}
