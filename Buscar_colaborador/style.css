@@ -10,9 +10,10 @@
     vertical-align: top;
 }
 
-h1 {
+.titulo-principal {
     font-size: 25px;
     font-style: italic;
+    padding-left: 18px;
 }
 
 .clic {
