@@ -1,7 +1,7 @@
 /* css da página inicial */
 
 .cabeça {
-    background: red;
+    background: #ff0000;
 }
 
 .imagemlogo {
@@ -13,14 +13,14 @@
 
 h1 {
     background: #ff0000;
-    color: black;
     font-size: 35px;
     font-style: italic;
     width: 58%;
+    text-align: right;
 }
 
 .clic {
-    text-align: center;
+    text-align: left;
     color: green;
     font-size: 252%;
     font-style: italic;
