@@ -5,7 +5,6 @@
 }
 
 .imagemlogo {
-    background: red;
     width: 12%;
     display: inline-block;
     vertical-align: top;
@@ -21,8 +20,7 @@ h1 {
 
 .clic {
     text-align: center;
-    color: green;
+    color: black;
     font-size: 252%;
-    font-style: italic;
-    font-style:
+    font-style: initial;
 }
