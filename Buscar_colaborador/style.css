@@ -19,6 +19,10 @@
 .clic {
     text-align: center;
     color: black;
-    font-size: 252%;
+    font-size: 152%;
     font-style: initial;
+}
+
+.itens {
+    text-align: center;
 }
