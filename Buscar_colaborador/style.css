@@ -50,3 +50,8 @@ form input {
     padding: 5px 12px;
     width: 18%;
 }
+
+.copyright {
+    text-align: right;
+    padding: 10px 15px;
+}
