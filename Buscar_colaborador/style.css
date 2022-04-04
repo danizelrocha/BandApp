@@ -21,8 +21,13 @@
     color: black;
     font-size: 152%;
     font-style: initial;
+    margin: 20px 0px 15px;
+    font-weight: bold;
 }
 
 .itens {
     text-align: center;
+    font-style: italic;
+    margin: 8px;
+    border: 1px: solid: #ff0000;
 }
