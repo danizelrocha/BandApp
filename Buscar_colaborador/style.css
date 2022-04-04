@@ -16,6 +16,9 @@
     padding-left: 18px;
 }
 
+
+/* css primeira opção */
+
 .clic {
     text-align: center;
     color: black;
@@ -31,6 +34,9 @@
     margin: 8px;
     border: 1px;
 }
+
+
+/* css segunda opção */
 
 form {
     margin: 20px 0px;
@@ -50,6 +56,9 @@ form input {
     padding: 5px 12px;
     width: 18%;
 }
+
+
+/* css final segunda opção */
 
 .copyright {
     text-align: right;
