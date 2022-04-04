@@ -31,3 +31,16 @@
     margin: 8px;
     border: 1px: solid: #ff0000;
 }
+
+form {
+    margin: 20px 0px;
+    padding-left: 18px;
+}
+
+form label {
+    display: block;
+}
+
+form input {
+    display: block;
+}
