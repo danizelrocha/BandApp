@@ -39,8 +39,11 @@ form {
 
 form label {
     display: block;
+    font-size: 20px;
+    margin: 0px 0px 10px;
 }
 
 form input {
     display: block;
+    margin: 0px 0px 10px;
 }
